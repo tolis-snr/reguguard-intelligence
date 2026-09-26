@@ -1,0 +1,11 @@
+company_id,company_name,jurisdiction,registration_number,annual_revenue_mil,debt_to_equity_ratio,beneficial_owner,industry
+COMP-001,Aegean Blue Shipping SA,GR,GR800123456,120.50,1.20,Nikolaos Stavrou,Maritime & Logistics
+COMP-002,Global Shield Security Ltd,CY,CY10293847F,45.20,0.85,Elena Rostova,Private Security
+COMP-003,Black Sea Trade & Logistics,RO,RO998877665,18.00,3.40,Viktor Markov,Import-Export
+COMP-004,Helios Renewable Assets LLC,DE,DE302910293,89.40,1.10,Stefan Weber,Renewable Energy
+COMP-005,Panama Meridian Trust Co,PA,,5.30,-0.50,Carlos Mendez,Wealth Management
+COMP-006,Apex Horizon FinTech BV,NL,NL847294827,24.00,0.45,Sophie Van Dijk,Financial Services
+COMP-007,Orient Silk Road Trading,AE,AE554433221,210.00,2.80,UNKNOWN,Commodities Trading
+COMP-008,Nordic Timber Exports AB,SE,SE556012345,67.80,0.95,Lars Lindqvist,Forestry & Paper
+COMP-009,Balkan Mineral Resources,BG,BG123456789,12.50,4.20,Boris Ivanov,Mining & Extraction
+COMP-010,Cayman Blue Sky Ventures,KY,,0.00,0.00,,Shell Company

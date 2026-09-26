@@ -1,0 +1,35 @@
+[
+  {
+    "sanction_id": "SANC-EU-2023-089",
+    "entity_name": "Viktor Markov",
+    "target_type": "INDIVIDUAL",
+    "jurisdiction": "RU",
+    "sanction_program": "EU_TERRITORIAL_INTEGRITY",
+    "severity": "CRITICAL",
+    "listing_date": "2023-04-12",
+    "is_active": true,
+    "description": "Asset freeze and travel ban due to involvement in illicit weapons transit and sanctions evasion."
+  },
+  {
+    "sanction_id": "SANC-US-2022-441",
+    "entity_name": "Panama Meridian Trust Co",
+    "target_type": "ORGANIZATION",
+    "jurisdiction": "PA",
+    "sanction_program": "US_NARCOTICS_AML",
+    "severity": "HIGH",
+    "listing_date": "2022-11-05",
+    "is_active": true,
+    "description": "Designated for laundering narcotics proceeds through offshore shell corporate structures."
+  },
+  {
+    "sanction_id": "SANC-UN-2021-012",
+    "entity_name": "Boris Ivanov",
+    "target_type": "INDIVIDUAL",
+    "jurisdiction": "BG",
+    "sanction_program": "UN_GLOBAL_CORRUPTION",
+    "severity": "MEDIUM",
+    "listing_date": "2021-06-20",
+    "is_active": true,
+    "description": "Suspected facilitation of illicit mining concessions and political bribery."
+  }
+]
